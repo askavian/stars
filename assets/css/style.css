@@ -12,37 +12,52 @@ body {
 
 .lunar {
   background-image: url(../images/lunar/NASA-Apollo8-Dec24-Earthrise.jpg);
-  background-size: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom;
 }
 
 .mars {
   background-image: url(../images/mars/26729_PIA25213-web.jpg);
-  background-size: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /*background-position: bottom;*/
 }
 
 .europa {
   background-image: url(../images/europa/PIA26444_modest.jpg);
-  background-size: auto;
+  /*background-size: cover;*/
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 .titan {
   background-image: url(../images/titan/PIA23172_modest.jpg);
-  background-size: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 .venus {
   background-image: url(../images/venus/v4n2dg9476r91.jpg);
-  background-size: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 .ganymede {
   background-image: url(../images/ganymede/PIA01515_modest.jpg);
-  background-size: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 .kuiper {
   background-image: url(../images/kuiper/GSFC_20171208_Archive_e000946~orig.jpg);
-  background-size: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
    

@@ -4,10 +4,11 @@
 }
 
 body {
-    background-color: grey;
+    background-color: #000;
     background-image: url(../images/NASA-Apollo8-Dec24-Earthrise.jpg);
     background-size: auto;
-    font-family: 'Courier New', Courier, monospace;
+    /*font-family: 'Courier New', Courier, monospace;*/
+    font-family: 'veterantypewriter';
     color: silver;
 }
 

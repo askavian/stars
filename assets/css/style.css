@@ -4,98 +4,148 @@
 }
 
 body {
-    background-color: #000;
     font-family: 'Courier New', Courier, monospace;
     /*font-family: 'veterantypewriter';*/
-    color: #fff;
-    
+    padding: 0%;
+    margin: 0%;
+    background-color: #d3d3d3;
 }
 
-.lunar {
-  background-image: url(../images/lunar/NASA-Apollo8-Dec24-Earthrise.jpg);
+/*HEADER & NAVIGATION*/
+header {
+  height: 100vmax;  
+  margin-top: 0%;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: bottom;
+  background-position: bottom; 
 }
 
-.mars {
-  background-image: url(../images/mars/26729_PIA25213-web.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom;
-}
-
-.europa {
-  background-image: url(../images/europa/PIA26444_modest.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom;
-}
-
-.titan {
-  background-image: url(../images/titan/PIA23172_modest.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom;
-}
-
-.venus {
-  background-image: url(../images/venus/v4n2dg9476r91.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom;
-}
-
-.ganymede {
-  background-image: url(../images/ganymede/PIA01515_modest.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom;
-}
-
-.kuiper {
-  background-image: url(../images/kuiper/GSFC_20171208_Archive_e000946~orig.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom;
-}
-
-   
 nav ul {
-    list-style: none;
-    background-color: transparent;
-    text-align: center;
-    padding: 0;
-    margin: 0;
+  list-style: none;
+  background-color: transparent;
+  text-align: center;
+  padding: 0;
+  margin: 0;
   }
   
   nav li {
-    font-size: 1.2em;
-    line-height: 40px;
-    height: 40px;
-    display: inline-block;
-    margin-left: 2.5%;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  display: inline-block;
+  margin-left: 2.5%;
   }
    
   nav a {
-    text-decoration: none;
-    color: #fff;
-    display: block;
+  text-decoration: none;
+/*color: #fff;   STANDARD NAV COLOR DISABLED*/
+  display: block;
   }
-  
+
   nav a:hover {
-    background-color: #fff;
-    color: red;
-    font-size: 1.3em;
+  background-color: #d3d3d3;
+  color: #C70039;
+  font-size: 1.2em;
+  font-weight: 600;
   }
   
+/*HOME*/
+
+
+
+/*LUNAR*/
+.lunar-header {
+  background-image: url(../images/lunar/NASA-Apollo8-Dec24-Earthrise.jpg);
+  background-color: #000;
+  color: #fff;
+}
+
+.lunar-header a {
+  color: inherit;
+}
+
+
+
+/*MARS*/
+.mars-header {
+  background-image: url(../images/mars/26729_PIA25213-web.jpg);
+  background-color: sandybrown;
+  color: #000;
+}
+
+.mars-header a {
+  color: inherit;
+}
+
+
+
+/*EUROPA*/
+.europa-header {
+  background-image: url(../images/europa/PIA26444_modest.jpg);
+  background-color: #000;
+  color: #fff;
+}
+
+.europa-header a {
+   color: inherit;
+}
+
+
+
+/*TITAN*/
+.titan-header {
+  background-image: url(../images/titan/PIA23172_modest.jpg);
+  background-color: sandybrown;
+  color: #000;
+}
+
+.titan-header a {
+  color: inherit;
+}
+
+
+
+/*VENUS*/
+.venus-header {
+  background-image: url(../images/venus/v4n2dg9476r91.jpg);
+  background-color: yellowgreen;
+  color: #000;
+}
+
+.venus-header a {
+  color: inherit;
+}
+
+
+
+/*GANYMEDE*/
+.ganymede-header {
+  background-image: url(../images/ganymede/PIA01515_modest.jpg);
+  background-color: #000;
+  color: #fff;
+}
+
+.ganymede-header a {
+  color: inherit;
+}
+
+
+
+/*KUIPER BELT*/
+.kuiper-header {
+  background-image: url(../images/kuiper/GSFC_20171208_Archive_e000946~orig.jpg);
+  background-color: #000;
+  color: #fff;
+}
+
+.kuiper-header a {
+  color: inherit;
+}
+
+
+/*IMPRINT & CONTACT*/
+
 
 
 

@@ -11,9 +11,6 @@ body {
     background-color: #fff;
 }
 
-p {
-  margin: 0 0 15px 0;
-}
 
 /*HEADER & NAVIGATION*/
 header {
@@ -36,19 +33,6 @@ header p {
   text-align: center;
   font-size: 250%;
 }
-
-/* REDO
-table {
-  border: #000;
-  margin: 2.5px;
-  display: inline-box;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
-  box-sizing: 400px;
-}*/
-
-
-
-
 
 nav ul {
   list-style: none;
@@ -95,22 +79,28 @@ article span:last-of-type {
   margin-right: 0;
 }
 
-table {
+table { /*change to "article inherit" if table is used elsewhere */ 
   border: 1px solid #ccc;
   padding: 10px; 
   width: 100%;
 }
 
-th {
+th { /*change to "article inherit" if table is used elsewhere */ 
   background: #eee;
   padding: 10px;
   width: 25%;
+  text-align: left;
+  margin-left: 2.5%;
 }
 
-td {
+td { /*change to "article inherit" if table is used elsewhere */ 
   padding: 10px;
   border-bottom: 1px solid #ccc;
   width: 75%;
+}
+
+article p {
+  margin: 0 0 15px 0;
 }
 
 
@@ -121,7 +111,6 @@ footer {
   bottom: 0;
   right: 0;
   padding: 50px 10%;
-
 }
 
 
@@ -131,7 +120,6 @@ footer {
 
 
 
-/*ABOUT*/
 
 
 
@@ -230,9 +218,10 @@ footer {
 
 
 
+
+
+
 /*DIFFERENT VIEPORTS*/
-
-
 @media screen and (min-width: 768px) { /* tablet device */
   article span {
       width: 48.75%;

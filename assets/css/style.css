@@ -103,6 +103,12 @@ article p {
   margin: 0 0 15px 0;
 }
 
+article img {
+  width: 100%;
+  height: auto;
+  max-width: 400px; /*might chanbge later*/
+}
+
 
 
 /*FOOTER*/

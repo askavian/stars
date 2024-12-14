@@ -70,12 +70,12 @@ article {
   padding:10%;
 }
 
-article span {
+.index {
   float: left;
   width: 100%;
 }
 
-article span:last-of-type {
+table:last-of-type {
   margin-right: 0;
 }
 

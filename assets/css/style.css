@@ -139,8 +139,16 @@ footer {
 
 
 
-/*HOME*/
+/*INDEX HOME*/
+.index-header {
+  background-image: url(../images/index/sol_cover.webp);
+  background-color: #000;
+  color: #fff;
+}
 
+.index-header a {
+  color: inherit;
+}
 
 
 
@@ -161,8 +169,8 @@ footer {
 
 /*MARS*/
 .mars-header {
-  background-image: url(../images/mars/26729_PIA25213-web.jpg);
-  background-color: sandybrown;
+  background-image: url(../images/mars/mars_cover.webp);
+  background-color: #f4a460;
   color: #000;
 }
 
@@ -187,8 +195,8 @@ footer {
 
 /*TITAN*/
 .titan-header {
-  background-image: url(../images/titan/PIA23172_modest.jpg);
-  background-color: sandybrown;
+  background-image: url(../images/titan/titan_cover.webp);
+  background-color: #f4a460;
   color: #000;
 }
 
@@ -200,8 +208,8 @@ footer {
 
 /*VENUS*/
 .venus-header {
-  background-image: url(../images/venus/v4n2dg9476r91.jpg);
-  background-color: yellowgreen;
+  background-image: url(../images/venus/venus_cover.webp);
+  background-color: #9ACD32;
   color: #000;
   background-position: center; /*SPECIAL CENTER*/
 }

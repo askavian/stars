@@ -100,10 +100,31 @@ article p {
 }
 
 article img {
-  width: 100%;
-  height: auto;
-  max-width: 400px; /*might chanbge later*/
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
 }
+
+div.gallery {
+  margin: 2.5%;
+  border: 1px solid #ccc;
+  float: left;
+  width: 400px;
+}
+
+div.gallery img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+div.description {
+  padding: 25px;
+  text-align: center;
+  font-weight: 900;
+  font-size: 90%;
+}
+
 
 
 
@@ -127,7 +148,7 @@ footer {
 
 /*LUNAR*/
 .lunar-header {
-  background-image: url(../images/lunar/NASA-Apollo8-Dec24-Earthrise.jpg);
+  background-image: url(../images/lunar/lunar_cover_earthrise.webp);
   background-color: #000;
   color: #fff;
 }
@@ -153,7 +174,7 @@ footer {
 
 /*EUROPA*/
 .europa-header {
-/*CHANGE PICTURE*/  background-image: url(../images/europa/PIA26444_modest.jpg); 
+/*CHANGE PICTURE*/  background-image: url(../images/europa/europa_cover.webp); 
   background-color: #000;
   color: #fff;
 }
@@ -193,7 +214,7 @@ footer {
 
 /*GANYMEDE*/
 .ganymede-header {
-/*CHANGE PICTURE*/  background-image: url(../images/ganymede/PIA01515_modest.jpg);
+  background-image: url(../images/ganymede/ganymede_cover.webp);
   background-color: #000;
   color: #fff;
 }
@@ -206,7 +227,7 @@ footer {
 
 /*KUIPER BELT*/
 .kuiper-header {
-/*CHANGE PICTURE*/  background-image: url(../images/kuiper/28090044146_63e965d1e2_o.jpg);
+background-image: url(../images/kuiper/kuiper_cover.webp);
   background-color: #000;
   color: #fff;
 }

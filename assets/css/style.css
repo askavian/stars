@@ -252,7 +252,7 @@ background-image: url(../images/kuiper/kuiper_cover.webp);
 
 
 
-/*DIFFERENT VIEPORTS*/
+/*DIFFERENT VIEWPORTS*/
 @media screen and (min-width: 768px) { /* tablet device */
   article span {
       width: 48.75%;

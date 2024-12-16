@@ -6,6 +6,7 @@ Include additional Media (Video for each pagen) and Background Audio for the fro
 Rework credits given
 Additional Pages
 Include Aside Elements with Quotes from Scientists and Futurerists
+Text Links to outside sources and articles
 
 
 **Credits**
@@ -29,4 +30,6 @@ License under https://creativecommons.org/licenses/by-sa/3.0/igo/
 
 ---
 
-Happy coding!
+Malte M. Boettcher
+malte.boettcher@live.com
+

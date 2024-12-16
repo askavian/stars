@@ -166,7 +166,6 @@ footer {
   background-image: url(../images/lunar/lunar_cover_earthrise.webp);
   background-color: #000;
   color: #fff;
-  text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
 }
 
 .lunar-header a {

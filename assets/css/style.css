@@ -16,7 +16,8 @@ header {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: bottom; 
-  text-shadow: -1px 0 #C70039, 0 1px #C70039, 1px 0 #C70039, 0 -1px #C70039;
+  text-shadow: -1px 0 #C70039, 0 1px #C70039, 1px 0 #C70039, 0 -1px #C70039; /*Help with Accessibility by High Contrastfrom Yvy, my Co-Student at Code Institute*/
+
 }
 
 header h1 {
@@ -31,7 +32,7 @@ header p {
   font-size: 200%;
 }
 
-nav ul {
+nav ul { /*nav element inspiration from the "Debugging HTML & CSS In The Browser" Lesson of Code Institute*/
   list-style: none;
   background-color: transparent;
   text-align: center;

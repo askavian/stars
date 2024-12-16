@@ -36,34 +36,33 @@ nav ul {
   text-align: center;
   padding: 0;
   margin: 0;
-  }
+}
   
-  nav li {
-  font-size: 1.2em;
-  line-height: 40px;
-  height: 40px;
-  display: inline-block;
-  margin-left: 2.5%;
-  }
+nav li {
+font-size: 1.2em;
+line-height: 40px;
+height: 40px;
+display: inline-block;
+margin-left: 2.5%;
+}
    
-  nav a {
+nav a {
   text-decoration: none;
-/*color: #fff;   STANDARD NAV COLOR DISABLED*/
   display: block;
-  }
+}
 
-  nav a:hover {
+nav a:hover {
   background-color: #d3d3d3;
   color: #C70039;
   font-size: 1.2em;
   font-weight: 600;
-  }
+}
 
 
   
 /*CONTENT & ARTICLE*/
 article {
-  padding:10%;
+  padding: 10%;
 }
 
 .index {
@@ -108,7 +107,7 @@ article img {
 .articleimage {
   width: auto;
   height: auto;
-  max-width: 100%;
+  width: 100%;
   object-fit: cover;
   align-self: center;
 }
@@ -135,7 +134,6 @@ div.description {
 
 
 
-
 /*FOOTER*/
 footer {
   background-color: #d3d3d3;
@@ -149,7 +147,6 @@ footer {
 
 
 
-
 /*INDEX HOME*/
 .index-header {
   background-image: url(../images/index/sol_cover.webp);
@@ -160,8 +157,6 @@ footer {
 .index-header a {
   color: inherit;
 }
-
-
 
 
 
@@ -256,7 +251,20 @@ background-image: url(../images/kuiper/kuiper_cover.webp);
 }
 
 
-/*IMPRINT & CONTACT*/
+
+/*ABOUT*/
+.about-header {
+  height: 2%;
+  background-color: #d3d3d3;
+  color: #000;  
+  text-decoration: none;
+}
+
+.contactpage {
+  padding: 10%;
+}
+
+
 
 
 

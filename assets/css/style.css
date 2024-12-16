@@ -16,6 +16,7 @@ header {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: bottom; 
+  text-shadow: -1px 0 #C70039, 0 1px #C70039, 1px 0 #C70039, 0 -1px #C70039;
 }
 
 header h1 {
@@ -27,7 +28,7 @@ header h1 {
 header p {
   margin-top: 25%;
   text-align: center;
-  font-size: 250%;
+  font-size: 200%;
 }
 
 nav ul {
@@ -165,6 +166,7 @@ footer {
   background-image: url(../images/lunar/lunar_cover_earthrise.webp);
   background-color: #000;
   color: #fff;
+  text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
 }
 
 .lunar-header a {
@@ -177,8 +179,9 @@ footer {
 .mars-header {
   background-image: url(../images/mars/mars_cover.webp);
   background-color: #f4a460;
-  color: #000;
-}
+  color: #000
+}  
+
 
 .mars-header a {
   color: inherit;
@@ -278,7 +281,3 @@ background-image: url(../images/kuiper/kuiper_cover.webp);
       margin-right: 2.5%;
   }
 }
-  
-  @media screen and (min-width: 1440px) { /* tablet device */
-      /* STYLES HERE */
-  }

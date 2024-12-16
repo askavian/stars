@@ -7,6 +7,7 @@ Rework credits given
 Additional Pages
 Include Aside Elements with Quotes from Scientists and Futurerists
 Text Links to outside sources and articles
+Better Responsive Design for Profile Picture and Table
 
 
 **Credits**

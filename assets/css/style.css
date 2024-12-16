@@ -105,6 +105,14 @@ article img {
   object-fit: cover;
 }
 
+.articleimage {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  object-fit: cover;
+  align-self: center;
+}
+
 div.gallery {
   margin: 2.5%;
   border: 1px solid #ccc;

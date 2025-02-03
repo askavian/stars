@@ -2,6 +2,17 @@
 
 1. This is a revised version after feedback. 
 
+**Points to be revised and improved from Feedback**
+
+To meet the **PASS** standards, there where two criteria not met from the first submit: 
+
+2.2	    Fails to pass through the official (W3C) validator.
+
+2.6     Doesn’t work well across various devices / screen sizes.
+
+4.1	    Missing details in deployment section. **FIXED**
+
+
 2. For the first Deployments I did not added any Comments. Please Excuse this. After talking to my Mentor, I realized that I made an error and we decided that I would clarify the mistake by informing about it in the readme and NOT retroactively fixing or hiding it. REVISED AFTER FEEDBACK
 
 

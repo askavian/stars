@@ -6,7 +6,7 @@
 
 To meet the **PASS** standards, there where two criteria not met from the first submit: 
 
-2.2	    Fails to pass through the official (W3C) validator.
+2.2	    Fails to pass through the official (W3C) validator. **FIXED**
 
 2.6     Doesn’t work well across various devices / screen sizes.
 

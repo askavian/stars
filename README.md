@@ -8,7 +8,7 @@ To meet the **PASS** standards, there where two criteria not met from the first 
 
 2.2	    Fails to pass through the official (W3C) validator. **FIXED**
 
-2.6     Doesn’t work well across various devices / screen sizes.
+2.6     Doesn’t work well across various devices / screen sizes. **FIXED**
 
 4.1	    Missing details in deployment section. **FIXED**
 
@@ -204,20 +204,11 @@ Lighthouse Validation is generally great, but gives minor feedback regarding the
 ## Bugs
 
 
-XXX NEEDS REVISION XXX
-
 The following Bugs remain open:
 
-1. The Gallery Images doe not scale correctly when viewed on a very small viewport (Smartphone)
-![gallery-scaling-on-smartphon](assets/images/readme/gallery_scaling_on_smartphone.png)
+1. Standard iOS Mobile Buttons look out of place in this design
+Category: **MINOR**
 
-2. Some Cover Images do not load correctly on Smartphones
-![missing-cover-on-smartphon](assets/images/readme/missing_cover_image.png)
-
-3. Some Cover Images are too big to be scaled meaningfully on very small viewports (Smartphones)
-![missing-cover-on-smartphon](assets/images/readme/cover_too_big_for_smartphone.png)
-
-4. Standard iOS Mobile Buttons look out of place in this design
 ![iOS Buttons](assets/images/readme/ios_native_icons_look_weird.png)
 
 
@@ -280,6 +271,7 @@ To further improve the typing game, I would add the following features:
     - Better Responsive Design for Profile Picture and Table.
     - Include a Favicon
     - Include JavaScript to fullscreen an image by hovering over it and not opening int in a _blank tab
+    - Better design for the Gallery Section on each page
 
 
 ## Credits

@@ -161,27 +161,25 @@ I chose the Google font-family: **'Courier New', Courier, monospace;** because t
 
 HTML was validated using the W3C Markup Validation Service 
 
-**Result: XXXTBDXXX**
+**Result: No errors found.**
 
-XXXNEED REVISIONXXX
+![html validation for index.html](assets/images/readme/html_index_validation.png)
 
-![html validation for index.html](INSERT PIC)
+![html validation for about.html](assets/images/readme/html_about_validation.png)
 
-![html validation for about.html](INSERT PIC)
+![html validation for europa.html](assets/images/readme/html_europa_validation.png)
 
-![html validation for europa.html](INSERT PIC)
+![html validation for ganymede.html](assets/images/readme/html_ganymede_validation.png)
 
-![html validation for ganymede.html](INSERT PIC)
+![html validation for kuiper.html](assets/images/readme/html_kuiper_validation.png)
 
-![html validation for kuiper.html](INSERT PIC)
+![html validation for lunar.html](assets/images/readme/html_lunar_validation.png)
 
-![html validation for lunar.html](INSERT PIC)
+![html validation for mars.html](assets/images/readme/html_mars_validation.png)
 
-![html validation for mars.html](INSERT PIC)
+![html validation for titan.html](assets/images/readme/html_titan_validation.png)
 
-![html validation for titan.html](INSERT PIC)
-
-![html validation for venus.html](INSERT PIC)
+![html validation for venus.html](assets/images/readme/html_venus_validation.png)
 
 
 #### CSS  

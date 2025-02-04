@@ -201,18 +201,6 @@ Lighthouse Validation is generally great, but gives minor feedback regarding the
 ![lighthouse-02](assets/images/readme/lighthouse_validation_02.png)
 
 
-**Result: No errors found.**
-
-![html validation](/assets/images/readme/cssvalidator.png)
-
-
-**Result: No errors found.**
-
-However, the validation returned 29 Warnings in regards to either ES6 Version or the Mozilla Browser. 
-
-![html validation](/assets/images/readme/jshint.png)
-
-
 ## Bugs
 
 

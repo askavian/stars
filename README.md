@@ -13,6 +13,7 @@ To meet the **PASS** standards, there where two criteria not met from the first 
 4.1	    Missing details in deployment section. **FIXED**
 
 
+
 2. For the first Deployments I did not added any Comments. Please Excuse this. After talking to my Mentor, I realized that I made an error and we decided that I would clarify the mistake by informing about it in the readme and NOT retroactively fixing or hiding it. REVISED AFTER FEEDBACK
 
 
@@ -268,7 +269,7 @@ To further improve the typing game, I would add the following features:
 - **Navigation** 
     - Bigger Nav Icons on MobileInclude images to the questions.
 - **Design** 
-    - Better Responsive Design for Profile Picture and Table.
+    - Better Responsive Design for Profile Picture and Table within article. Out of scope for now. 
     - Include a Favicon
     - Include JavaScript to fullscreen an image by hovering over it and not opening int in a _blank tab
     - Better design for the Gallery Section on each page
@@ -277,7 +278,7 @@ To further improve the typing game, I would add the following features:
 ## Credits
 
 - My Neighbor for CSS Help.
-- Code Institute Students and Alumnis for JavaScript support. 
+- Code Institute Students and Alumnis for support. 
 - European Space Agency's (esa) Multimedia Library: LINK
 - Jet Propulsion Laboratory (JPL) Photojournal: LINK
 - European Southern Observatory (ESO): LINK
